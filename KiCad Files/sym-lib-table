@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "esp32 devkit")(type "Legacy")(uri "${KIPRJMOD}/imports/kicad/symbols/esp32_devkit_v1_doit.lib")(options "")(descr ""))
+  (lib (name "makers_logo")(type "KiCad")(uri "${KIPRJMOD}/imports/makers_logo.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "esp32-board")(type "KiCad")(uri "${KIPRJMOD}/imports/kicad/footprints/esp32_devkit_v1_doit.pretty")(options "")(descr ""))
+  (lib (name "makers_logo")(type "KiCad")(uri "${KIPRJMOD}/imports/makers_logo.pretty")(options "")(descr ""))
+)
